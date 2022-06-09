@@ -1,2 +1,3 @@
 content b file
 Update branch b
+content for a branch
