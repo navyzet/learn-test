@@ -1,2 +1,2 @@
 content b file
-asdasdasdasdasd
+Update branch b
